@@ -3,17 +3,15 @@
 ## 1. Integrantes del equipo
 
 | Integrante | Asignación |
-| Yadier Alexander Martinez Serrano | E1 |
-| Sofía Jiménez Durán | E2 |
-| Johan Hernandez Castillo | E3 |
-| María Alejandra Hereaux Corniel | E4 y E5 |
+
+- Yadier Alexander Martinez Serrano | E1 - Integridad del modelo  
+- Sofía Jiménez Durán | E2 -  Venta transaccional y concurrencia 
+- Johan Hernandez Castillo | E3 - Optimización |
+- María Alejandra Hereaux Corniel | E4 - Seguridad y E5 - Respaldo y recuperación |
 
 ## 2. Datos asignados
 
-- **E1: Integridad del modelo** Yadier Alexander Martinez Serrano
-- **E2 — Venta transaccional y concurrencia:** Sofía Jiménez Durán
-- **E3: Optimización** Johan Hernandez Castillo
-- **E4: Seguridad y E5: Respaldo y recuperación** María Alejandra Hereaux Corniel
+Cedula del cliente = 40200006000
 
 ## 3. Orden de ejecución
 
