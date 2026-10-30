@@ -8,7 +8,7 @@ SET NOCOUNT ON;
 /* =============================================================
    0. PARAMETROS
    ============================================================= */
-DECLARE @Grupo INT = 1;
+DECLARE @Grupo INT = 6;
 DECLARE @ViajeIDAsignado INT = 16000;
 DECLARE @Cedula CHAR(11) = '40200006000';
 
